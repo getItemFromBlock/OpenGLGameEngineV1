@@ -1,0 +1,80 @@
+NewShader Default Shader
+	Fragment Resources/Shaders/fragment.frag
+	Vertex Resources/Shaders/vertex.vert
+EndShader
+NewShader Lit Shader
+	Fragment Resources/Shaders/lit_fragment.frag
+	Vertex Resources/Shaders/vertex.vert
+EndShader
+NewShader Scrolling Shader
+	Fragment Resources/Shaders/scrolling_fragment.frag
+	Vertex Resources/Shaders/vertex.vert
+EndShader
+NewShader Horizontal Scrolling Shader
+	Fragment Resources/Shaders/hscrolling_fragment.frag
+	Vertex Resources/Shaders/vertex.vert
+EndShader
+NewShader Cell Shader
+	Fragment Resources/Shaders/cell_fragment.frag
+	Vertex Resources/Shaders/vertex.vert
+EndShader
+NewShader Tangent Shader
+	Fragment Resources/Shaders/tangent_fragment.frag
+	Vertex Resources/Shaders/tangent_vertex.vert
+EndShader
+NewShader Inverted Color Shader
+	Fragment Resources/Shaders/inverted_fragment.frag
+	Vertex Resources/Shaders/vertex.vert
+EndShader
+NewShader Pixelizer Shader
+	Fragment Resources/Shaders/pixel_fragment.frag
+	Vertex Resources/Shaders/vertex.vert
+EndShader
+NewShader Poster Shader
+	Fragment Resources/Shaders/poster_fragment.frag
+	Vertex Resources/Shaders/vertex.vert
+EndShader
+NewShader VHS Shader
+	Fragment Resources/Shaders/vhs_fragment.frag
+	Vertex Resources/Shaders/vertex.vert
+EndShader
+NewShader Bloom Shader
+	Fragment Resources/Shaders/bloom_fragment.frag
+	Vertex Resources/Shaders/vertex.vert
+EndShader
+NewShader Normal Shader
+	Fragment Resources/Shaders/normal_fragment.frag
+	Vertex Resources/Shaders/vertex.vert
+EndShader
+NewShader Depth Shader
+	Fragment Resources/Shaders/depth_fragment.frag
+	Vertex Resources/Shaders/depth_vertex.vert
+EndShader
+NewShader Mirror Shader
+	Fragment Resources/Shaders/mirror_fragment.frag
+	Vertex Resources/Shaders/vertex.vert
+EndShader
+NewShader Skinned Shader
+	Fragment Resources/Shaders/fragment.frag
+	Vertex Resources/Shaders/skinned_vertex.vert
+EndShader
+NewShader Skinned Tangent Shader
+	Fragment Resources/Shaders/tangent_fragment.frag
+	Vertex Resources/Shaders/tangent_skinned_vertex.vert
+EndShader
+NewShader Mandelbroot Shader
+	Fragment Resources/Shaders/fractal_fragment.frag
+	Vertex Resources/Shaders/simple_vertex.vert
+EndShader
+NewShader Grayscale Shader
+	Fragment Resources/Shaders/grayscale_fragment.frag
+	Vertex Resources/Shaders/simple_vertex.vert
+EndShader
+NewShader Anaglyph Shader
+	Fragment Resources/Shaders/anaglyph_fragment.frag
+	Vertex Resources/Shaders/simple_vertex.vert
+EndShader
+NewShader Anaglyph Grayscale Shader
+	Fragment Resources/Shaders/anaglyph_gray_fragment.frag
+	Vertex Resources/Shaders/simple_vertex.vert
+EndShader
